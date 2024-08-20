@@ -69,6 +69,8 @@
 
 <details>
   <summary>Q2. 인터럽트가 받아졌을 때, 인터럽트 서비스 루틴을 설명하라 </summary>
+  
+![image](https://github.com/user-attachments/assets/ba2beec4-fa4f-4970-a899-7450f0d0ea7d)
 
 ![image](https://github.com/user-attachments/assets/fe12baa2-329a-4564-9ef1-170c79237d30)
 
