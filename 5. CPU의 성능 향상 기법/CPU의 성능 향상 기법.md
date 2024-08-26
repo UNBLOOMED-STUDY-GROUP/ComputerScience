@@ -71,5 +71,23 @@
 
 </details>
 
+---
 
+### [석인경]
 
+<details>
+  <summary> Q. 코어란 무엇인가?  </summary>
+
+명령어를 실행할 수 있는 '하드웨어 부품'
+ 
+</details>
+
+<details>
+  <summary> Q. 명령어 처리 과정 (클럭 단위) 4단계는 무엇인가? </summary>
+
+1. 명령어 인출 (Instuction Fetch)
+2. 명령어 해석 (Instuction Decode)
+3. 명령어 실행 (Execute Instruction)
+4. 결과 저장 (Write Back)
+ 
+</details>
